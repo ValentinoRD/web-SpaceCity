@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+section{
+    padding: 40px 20px 40px 20px;
+}
+header{
+    background-color: #807c7c;
+    padding: 10x 0;
+}
+footer{
+    background-color: #807c7c;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+.articleCounter{
+    background-color: violet;
+    border-style: groove;
+    border: solid 5px black;
+
+}
+.articleFortnite{
+    background-color: brown;
+    border: solid 1px black;
+}
+.articleLeague{
+    background-color: green;
+    border: solid 1px black;
+}
+.articleSamp{
+    background-color:yellow;
+    border: solid 1px black;
+}
